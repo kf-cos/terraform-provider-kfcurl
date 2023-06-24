@@ -367,7 +367,7 @@ func resourceCurlCreate(ctx context.Context, d *schema.ResourceData, meta interf
 				request.Header.Set(k, v)
 			}
 
-			tflog.Trace(ctx, "Request Headers", map[string]interface{}{"Request Headers": request.Header})
+// 			tflog.Trace(ctx, "Request Headers", map[string]interface{}{"Request Headers": request.Header})
 		}
 
 		if requestParameters, ok := d.Get("request_parameters").(map[string]interface{}); ok {

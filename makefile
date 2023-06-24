@@ -1,6 +1,6 @@
 name = kfcurl
 organization = kf-cos
-version = 1.2.0
+version = 1.2.1
 arch = darwin_amd64
 #arch = linux_amd64
 
