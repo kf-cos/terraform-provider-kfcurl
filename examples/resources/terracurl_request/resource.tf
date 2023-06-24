@@ -2,7 +2,7 @@ terraform {
   required_providers {
     kfcurl = {
       source  = "kf-cos/kfcurl"
-      version = "1.2.0"
+      version = "1.2.1"
     }
   }
 }
