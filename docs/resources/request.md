@@ -54,5 +54,3 @@ A flexible Terraform provider for making API calls
 - `request_url_string` (String) Request URL includes parameters if request specified
 - `response` (String) JSON response received from request
 - `status_code` (String) Response status code received from request
-
-

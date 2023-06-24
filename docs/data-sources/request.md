@@ -39,5 +39,3 @@ Sample data source in the Terraform provider scaffolding.
 - `id` (String) The ID of this resource.
 - `response` (String) JSON response received from request
 - `status_code` (String) Response status code received from request
-
-
